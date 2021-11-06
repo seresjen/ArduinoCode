@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino ide\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino ide\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\sketch\\RampsV3.ino.cpp",
+    "Include": "Arduino_FreeRTOS.h",
+    "Includepath": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\sketch\\RampsV3.ino.cpp",
+    "Include": "HX711.h",
+    "Includepath": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\HX711"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\sketch\\RampsV3.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\event_groups.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\heap_3.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\list.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\port.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\queue.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\stream_buffer.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\tasks.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\timers.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\FreeRTOS\\src\\variantHooks.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Desktop\\Nueva Electronica\\Arduino\\libraries\\HX711\\HX711.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
